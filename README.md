@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adhishree87" alt="Profile Views" /> </p>
 
 ## 👨‍💻 About Me  
-I'm a **Computer Engineering Student** with a deep passion for **Artificial Intelligence and Machine Learning**. I love building projects that solve real-world problems and exploring innovative solutions in software development.
+I'm a **Computer Engineering** student with a passion for **AI and Machine Learning**. I love building projects that solve real-world problems and exploring new ideas in software development.
 
 ### 🚀 Skills & Technologies  
 - **Languages**: C, C++, Python, JavaScript  
