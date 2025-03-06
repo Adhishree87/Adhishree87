@@ -6,7 +6,7 @@
 
 I'm a Computer Science Enthusiast  👨‍💻
 
-- 🔭 Familiar with **C**, **C++** , **Phython** , **HTML** and **CSS**
+- 🔭 Familiar with **C**, **C++** , **Phython** ,**JavaScript** ,**HTML** and **CSS**
 - 🌱 I’m currently learning about Machine learning
 - 💬 Ask me about anything and everything 
 
