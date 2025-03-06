@@ -22,5 +22,5 @@ I'm a **Computer Engineering Student** with a deep passion for **Artificial Inte
 
 ---
 
-⭐ **Feel free to reach out or collaborate on exciting AI projects!** 🚀  
+⭐ **Feel free to reach out or collaborate on exciting projects!** 🚀  
 
